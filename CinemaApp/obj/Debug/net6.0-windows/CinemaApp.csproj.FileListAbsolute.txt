@@ -1,0 +1,74 @@
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\CinemaApp.exe
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\CinemaApp.deps.json
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\CinemaApp.runtimeconfig.json
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\CinemaApp.dll
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\CinemaApp.pdb
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.csproj.AssemblyReference.cache
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.Form1.resources
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.Form2.resources
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.csproj.GenerateResource.cache
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.AssemblyInfoInputs.cache
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.AssemblyInfo.cs
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.csproj.CoreCompileInputs.cache
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.dll
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\refint\CinemaApp.dll
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.pdb
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.genruntimeconfig.cache
+E:\TLHH\CK_CNPM\New folder\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\ref\CinemaApp.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.csproj.AssemblyReference.cache
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.csproj.GenerateResource.cache
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.AssemblyInfoInputs.cache
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.AssemblyInfo.cs
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.csproj.CoreCompileInputs.cache
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\refint\CinemaApp.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.pdb
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\CinemaApp.exe
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\Azure.Core.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\Azure.Identity.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\System.Memory.Data.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.csproj.CopyComplete
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\CinemaApp.deps.json
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\CinemaApp.runtimeconfig.json
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\CinemaApp.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\bin\Debug\net6.0-windows\CinemaApp.pdb
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.Properties.Resources.resources
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.genruntimeconfig.cache
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\ref\CinemaApp.dll
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.Login.resources
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.Home.resources
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.Register.resources
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.Information.resources
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.ChangePass.resources
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.Tickets.resources
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.Trailers.resources
+E:\TLHH\CK_CNPM\CinemaApp\CinemaApp\obj\Debug\net6.0-windows\CinemaApp.EditFilms.resources
