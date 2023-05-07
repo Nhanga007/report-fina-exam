@@ -55,7 +55,7 @@ namespace CinemaApp
                         connection.Open();
                         SqlCommand command = new SqlCommand("UPDATE UserLogin SET Password=@password where Name=@UserName", connection);
                         command.Parameters.AddWithValue("@UserName", txt_UserName.Text);
-                        command.Parameters.AddWithValue("@password", textBox1.Text);
+                        command.Parameters.AddWithValue("@password", textBox3.Text);
                         int rowsAffected = command.ExecuteNonQuery();
                         if (rowsAffected > 0)
                         {

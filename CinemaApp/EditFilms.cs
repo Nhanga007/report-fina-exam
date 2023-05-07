@@ -67,7 +67,12 @@ namespace CinemaApp
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-           
+            if (e.RowIndex >= 0)
+            {
+                // Lấy giá trị của tên từ cột "Tên phim" trong dòng đang chọn
+                textBox1.Text = dataGridView1.Rows[e.RowIndex].Cells["FilmName"].Value.ToString();
+
+            }
 
         }
         private void LoadDataGripView()
@@ -89,8 +94,40 @@ namespace CinemaApp
         }
 
         private void button3_Click(object sender, EventArgs e)
+       
         {
+            if (textBox1.Text == "")
+            {
+                MessageBox.Show("Please provide Name");
+                return;
+            }
+            try
+            {
 
+                
+                    string connectionString = @"Server=DESKTOP-HQR4O6U\SQLEXPRESS; Database=TestDB; Integrated Security=True";
+                    using (SqlConnection connection = new SqlConnection(connectionString))
+                    {
+                        connection.Open();
+                        SqlCommand command = new SqlCommand("DELETE from Film where FilmName=@FilmName", connection);
+                        command.Parameters.AddWithValue("@FilmName", textBox1.Text);
+                        int rowsAffected = command.ExecuteNonQuery();
+                        LoadDataGripView();
+                        if (rowsAffected > 0)
+                        {
+                            MessageBox.Show("Changed Successfully!");
+                        }
+                        else
+                        {
+                            MessageBox.Show("Changed Failed!");
+                        }
+                    }
+                
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void button15_Click(object sender, EventArgs e)
@@ -98,6 +135,11 @@ namespace CinemaApp
             this.Hide();
             Home hm = new Home("");
             hm.ShowDialog();
+        }
+
+        private void dataGridView1_CellClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }
